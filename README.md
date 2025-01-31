@@ -1,6 +1,6 @@
 # Exploring the Biodegradation Potential of Metagenomic Laccases for Low-Density Polyethylene (LDPE)
 
-![Graphical Abstract](graphical-abstract.tif)
+![Graphical Abstract](Abstract.jpg)
 
 ## Overview
 This repository contains the computational data for the research **"Exploring the Biodegradation Potential of Metagenomic Laccases for Low-Density Polyethylene (LDPE): Experimental and Computational Insights."**  
