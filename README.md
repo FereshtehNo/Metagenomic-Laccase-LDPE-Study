@@ -1,4 +1,4 @@
-# Exploring the Biodegradation Potential of Metagenomic Laccases for Low-Density Polyethylene (LDPE)
+# Metagenomic Laccases as Biocatalysts for LDPE Degradation: Synergistic Computational and Experimental Insights
 
 ![Graphical Abstract](Abstract.jpg)
 
